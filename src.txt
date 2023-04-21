@@ -14,3 +14,6 @@ https://playsms.org/
 https://openvoxwiki.atlassian.net/wiki/spaces/UM/pages/423395329/OpenVox+Wireless+Gateway+Connect+with+playSMS+Manual
 -----------------------------------------
 https://help.yeastar.com/download/docs/tg200-tg400-tg800-tg1600-user-guide-en.pdf
+https://support.yeastar.com/hc/en-us/articles/217392758-How-to-Use-TG-SMS-API
+https://support.yeastar.com/hc/en-us/articles/217392758-How-to-Use-TG-SMS-API
+https://support.yeastar.com/hc/en-us/articles/217393078-HTTP-Interface-for-SMS
