@@ -1,0 +1,5 @@
+https://github.com/nmirceac/smsTools
+http://smstools3.kekekasvi.com/index.php?p=compiling
+https://github.com/KurdiukovTaras/sms-server
+https://github.com/antirek/openvox-sms-app
+https://snyk.io/advisor/npm-package/openvox-sms-worker
