@@ -17,3 +17,6 @@ https://help.yeastar.com/download/docs/tg200-tg400-tg800-tg1600-user-guide-en.pd
 https://support.yeastar.com/hc/en-us/articles/217392758-How-to-Use-TG-SMS-API
 https://support.yeastar.com/hc/en-us/articles/217392758-How-to-Use-TG-SMS-API
 https://support.yeastar.com/hc/en-us/articles/217393078-HTTP-Interface-for-SMS
+https://support.yeastar.com/hc/en-us/articles/217393078-HTTP-Interface-for-SMS
+https://support.yeastar.com/hc/en-us/articles/217392758-How-to-Use-TG-SMS-API
+
