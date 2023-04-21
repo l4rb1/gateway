@@ -1,3 +1,4 @@
+https://www.openvox.cn/pub/documents/other_documents/OpenVox_SMS_API_Demo_.pdf
 https://github.com/nmirceac/smsTools
 http://smstools3.kekekasvi.com/index.php?p=compiling
 https://github.com/KurdiukovTaras/sms-server
