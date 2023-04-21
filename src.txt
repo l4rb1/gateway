@@ -3,3 +3,5 @@ http://smstools3.kekekasvi.com/index.php?p=compiling
 https://github.com/KurdiukovTaras/sms-server
 https://github.com/antirek/openvox-sms-app
 https://snyk.io/advisor/npm-package/openvox-sms-worker
+https://www.youtube.com/watch?v=lP7oEtvXFMg
+https://github.com/juecan/mytools/blob/master/VoIP/SMS/playsms.md
