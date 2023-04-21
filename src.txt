@@ -1,3 +1,5 @@
+https://www.openvox.cn/pub/documents/manuals/SWG2008_User_Manual.pdf
+http://sip.ma/openvox-SWG-2008G
 https://www.openvox.cn/pub/documents/other_documents/OpenVox_SMS_API_Demo_.pdf
 https://openvoxwiki.atlassian.net/wiki/spaces/UM/pages/918078/Openvox+HTTP+SMS+API+Demo
 https://github.com/nmirceac/smsTools
@@ -10,3 +12,5 @@ https://github.com/juecan/mytools/blob/master/VoIP/SMS/playsms.md
 https://openvoxwiki.atlassian.net/wiki/spaces/VG/pages/2473082832/GSM+Gateways+APP+Note
 https://playsms.org/
 https://openvoxwiki.atlassian.net/wiki/spaces/UM/pages/423395329/OpenVox+Wireless+Gateway+Connect+with+playSMS+Manual
+-----------------------------------------
+https://help.yeastar.com/download/docs/tg200-tg400-tg800-tg1600-user-guide-en.pdf
