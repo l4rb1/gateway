@@ -5,3 +5,4 @@ https://github.com/antirek/openvox-sms-app
 https://snyk.io/advisor/npm-package/openvox-sms-worker
 https://www.youtube.com/watch?v=lP7oEtvXFMg
 https://github.com/juecan/mytools/blob/master/VoIP/SMS/playsms.md
+https://openvoxwiki.atlassian.net/wiki/spaces/VG/pages/2473082832/GSM+Gateways+APP+Note
