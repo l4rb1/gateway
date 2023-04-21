@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=lP7oEtvXFMg
 https://github.com/juecan/mytools/blob/master/VoIP/SMS/playsms.md
 https://openvoxwiki.atlassian.net/wiki/spaces/VG/pages/2473082832/GSM+Gateways+APP+Note
 https://playsms.org/
+https://openvoxwiki.atlassian.net/wiki/spaces/UM/pages/423395329/OpenVox+Wireless+Gateway+Connect+with+playSMS+Manual
